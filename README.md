@@ -38,6 +38,8 @@ The project follows the following architecture,
 
 3. **Follow the Blog:**
    Implementation details and insights are documented in the associated [series of blog posts in Medium](URL_HERE).
+   ⚡**If you want to skip the initial processes like data modeling, schema design and directly jump onto building the warehouse on Azure Synapse Analytics, _follow the Blog Three_**,
+   ⚡**If you want to skip the building warehouse processes on Azure Synapse Analytics and directly jump onto querying the tables with SQL (T-SQL in this context), _follow the Blog Four_**
 
   ## **Blog One: _From Design to Deployment: Data Warehousing with Azure Synapse Analytics (Part 1: Architecture)_**
   <img width="1440" alt="Final Draft" src="https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/a0ef0dbe-8486-40f3-b817-0a4068f5e432">
