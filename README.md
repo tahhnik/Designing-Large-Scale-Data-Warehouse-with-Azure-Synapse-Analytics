@@ -1,6 +1,6 @@
-![Static Badge](https://img.shields.io/badge/Azure-blue?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Azure-Synapse_Analytics-blue?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Data%20Warehousing-Green?style=for-the-badge&logoColor=Blue)
+![Static Badge](https://img.shields.io/badge/Azure-blue?style=plastic)
+![Static Badge](https://img.shields.io/badge/Azure-Synapse_Analytics-blue?style=plastic)
+![Static Badge](https://img.shields.io/badge/Data%20Warehousing-Green?style=plastic&logoColor=Blue)
 ![Static Badge](https://img.shields.io/badge/Data-Warehousing-%2397c900?style=plastic)
 
 
