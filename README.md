@@ -40,7 +40,7 @@ The project follows the following architecture,
    Implementation details and insights are documented in the associated [series of blog posts in Medium](URL_HERE).
 
   #### **Blog One: _From Design to Deployment: Data Warehousing with Azure Synapse Analytics (Part 1: Architecture)_**
-      <img width="1440" alt="Final Draft" src="https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/a0ef0dbe-8486-40f3-b817-0a4068f5e432">
+  <img width="1440" alt="Final Draft" src="https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/a0ef0dbe-8486-40f3-b817-0a4068f5e432">
 
    **Components:**
    * The architecture of the data warehouse
