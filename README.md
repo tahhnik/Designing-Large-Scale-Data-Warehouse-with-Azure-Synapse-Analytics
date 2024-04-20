@@ -13,6 +13,7 @@
 # From Design to Deployment: Data Warehousing with Azure Synapse Analytics 
 The repo simulates query load, optimizes performance, and offers practical guidance for building data warehouses with Azure Synapse Analytics. 🚀
 The project follows the following architecture,
+
 ![Infrastructure Diagram](Assets/working-Animation.gif)
 
 # Directories 📂
@@ -34,7 +35,13 @@ The project follows the following architecture,
    ```bash
    git clone https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics.git
 
+### To Set Up on the Azure Portal (Detailed walkthrough is in the blogposts)
+   **Clone the repository inside Azure workspace through PowerShell on Azure Portal**
+   ```shell
+   git clone https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics.git
+   ```
 ![synapase-ui-shell-gitclone](https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/6624d5a1-dc98-45a3-b819-63f3344e659e)
+   
 
 2. **Explore the Directories:**
    Navigate into each directory to find detailed automation scripts, SQL codes for queries, and configurations.
