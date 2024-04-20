@@ -38,10 +38,19 @@ The project follows the following architecture,
 
 3. **Follow the Blog:**
    Implementation details and insights are documented in the associated [series of blog posts in Medium](URL_HERE).
+
+   **Blog One: _From Design to Deployment: Data Warehousing with Azure Synapse Analytics (Part 1: Architecture)_**
+   <img width="1440" alt="Final Draft (1)" src="https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/fa9cbaec-5246-4dd6-89b5-7bcc5e5fe065">
+   **Components:**
+   * The architecture of the data warehouse
+   * The details of the data pipeline
+   * Brief Discussions of the tools and processes used
+
    
-<img width="1440" alt="Final Draft (1)" src="https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/fa9cbaec-5246-4dd6-89b5-7bcc5e5fe065">
-<img width="1440" alt="Final Draft (2)" src="https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/28e7a3bf-b8d2-420e-8739-296f6a709bcf">
-<img width="1440" alt="Final Draft (3)" src="https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/12131ee8-2585-4080-b3f3-2fa9ed5929f2">
+   **Blog Two: _From Design to Deployment: Data Warehousing with Azure Synapse Analytics (Part 2: Data Modeling and Schema Design_)**
+   <img width="1440" alt="Final Draft (2)" src="https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/28e7a3bf-b8d2-420e-8739-296f6a709bcf">
+   **Part Three: _From Design to Deployment: Data Warehousing with Azure Synapse Analytics (Part 3: Design and Creation)_**
+   <img width="1440" alt="Final Draft (3)" src="https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/12131ee8-2585-4080-b3f3-2fa9ed5929f2">
 
 ## Tools Explored 🛠️
 1. **Azure Synapse Analytics**: Enterprise analytics service for data warehouses and big data systems.
