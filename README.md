@@ -13,7 +13,7 @@
 # From Design to Deployment: Data Warehousing with Azure Synapse Analytics
 The repo simulates query load, optimizes performance, and offers practical guidance for building data warehouses with Azure Synapse Analytics. 🚀
 
-![Infrastructure Diagram](Assets/working-animation.gif)
+![Infrastructure Diagram](Assets/working-Animation.gif)
 
 ## Getting Started 🚀
 
@@ -29,8 +29,7 @@ The repo simulates query load, optimizes performance, and offers practical guida
 <img width="1440" alt="Final Draft (1)" src="https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/fa9cbaec-5246-4dd6-89b5-7bcc5e5fe065">
 <img width="1440" alt="Final Draft (2)" src="https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/28e7a3bf-b8d2-420e-8739-296f6a709bcf">
 <img width="1440" alt="Final Draft (3)" src="https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/12131ee8-2585-4080-b3f3-2fa9ed5929f2">
-![Final Draft (4)](https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/bfca476d-c2b9-4bdf-8f71-90732837bd44)
 
 4. **Connect with Me:**
-[![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/tahnikahmed/)
-[![Twitter](https://img.shields.io/badge/Connect%20with%20me%20on-Twitter/X-blue.svg)](https://twitter.com/TahnikAhmed)
+   [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/tahnikahmed/)
+   [![Twitter](https://img.shields.io/badge/Connect%20with%20me%20on-Twitter/X-blue.svg)](https://twitter.com/TahnikAhmed)
