@@ -1,8 +1,10 @@
+![Static Badge](https://img.shields.io/badge/Data%20Warehousing-Green?style=plastic&logoColor=Blue)
 ![Static Badge](https://img.shields.io/badge/Azure-blue?style=plastic)
 ![Static Badge](https://img.shields.io/badge/Azure-Synapse_Analytics-blue?style=plastic)
-![Static Badge](https://img.shields.io/badge/Data%20Warehousing-Green?style=plastic&logoColor=Blue)
 ![Static Badge](https://img.shields.io/badge/Data-Analytics-%2397c900?style=plastic)
 ![Static Badge](https://img.shields.io/badge/Azure-Stream_Analytics-%230273b4?style=plastic)
+![Static Badge](https://img.shields.io/badge/Azure-Machine_Learning-%230273b4?style=plastic)
+
 
 
 
