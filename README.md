@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/Data%20Warehousing-Green?style=for-the-badge&logoColor=Blue)
+
 # From Design to Deployment: Data Warehousing with Azure Synapse Analytics
 The repo simulates query load, optimizes performance, and offers practical guidance for building data warehouses with Azure Synapse Analytics. 🚀
 
