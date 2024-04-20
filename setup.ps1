@@ -176,7 +176,7 @@ Suspend-AzSynapseSqlPool -WorkspaceName $synapseWorkspace -Name $sqlDatabaseName
 
 # Upload solution script
 write-host "Uploading script..."
-$solutionScriptPath = "Queries_Part4.sql"
+$solutionScriptPath = "sql_queries_part4.sql"
 Set-AzSynapseSqlScript -WorkspaceName $synapseWorkspace -DefinitionFile $solutionScriptPath -sqlPoolName $sqlDatabaseName -sqlDatabaseName $sqlDatabaseName
 
 write-host "Script completed at $(Get-Date)"
