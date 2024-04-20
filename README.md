@@ -24,6 +24,10 @@ The project follows the following architecture,
 5. **setup.sql:** SQL script for creating the tables of the data warehouse
 6. **table_creation_codes.sql:** SQL script to create the fact and dimension tables with dedicated SQL pool
 
+## Prerequisites:
+1. An active Azure subscription
+2. Knowledge of Azure Data Fundamentals, [Good to begin from here](https://learn.microsoft.com/en-us/training/courses/dp-900t00)
+
 ## Getting Started 🚀
 
 1. **Clone the Repository:**
