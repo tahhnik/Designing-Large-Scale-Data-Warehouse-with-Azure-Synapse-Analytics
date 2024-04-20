@@ -1,5 +1,5 @@
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/tahnikahmed/)
-[![Twitter](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://twitter.com/TahnikAhmed)
+[![Twitter](https://img.shields.io/badge/Connect%20with%20me%20on-Twitter/X-blue.svg)](https://twitter.com/TahnikAhmed)
 ![Static Badge](https://img.shields.io/badge/Data%20Warehousing-Green?style=plastic&logoColor=Blue)
 ![Static Badge](https://img.shields.io/badge/Azure-blue?style=plastic)
 ![Static Badge](https://img.shields.io/badge/Azure-Synapse_Analytics-blue?style=plastic)
