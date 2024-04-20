@@ -39,8 +39,8 @@ The project follows the following architecture,
 3. **Follow the Blog:**
    Implementation details and insights are documented in the associated [series of blog posts in Medium](URL_HERE).
 
-   **Blog One: _From Design to Deployment: Data Warehousing with Azure Synapse Analytics (Part 1: Architecture)_**
-  ![Final Draft](https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/a0ef0dbe-8486-40f3-b817-0a4068f5e432)
+  #### **Blog One: _From Design to Deployment: Data Warehousing with Azure Synapse Analytics (Part 1: Architecture)_**
+      <img width="1440" alt="Final Draft" src="https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/a0ef0dbe-8486-40f3-b817-0a4068f5e432">
 
    **Components:**
    * The architecture of the data warehouse
@@ -48,8 +48,14 @@ The project follows the following architecture,
    * Brief Discussions of the tools and processes used
 
    
-   **Blog Two: _From Design to Deployment: Data Warehousing with Azure Synapse Analytics (Part 2: Data Modeling and Schema Design_)**
-   ![Final Draft (2)](https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/21347ad3-03d5-47de-a624-672ece59e261)
+   #### **Blog Two: _From Design to Deployment: Data Warehousing with Azure Synapse Analytics (Part 2: Data Modeling and Schema Design_)**
+   <img width="1440" alt="Final Draft (3)" src="https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/21347ad3-03d5-47de-a624-672ece59e261">
+   
+   **Components:**
+   * The architecture of the data warehouse
+   * The details of the data pipeline
+   * Brief Discussions of the tools and processes used
+
 
    **Part Three: _From Design to Deployment: Data Warehousing with Azure Synapse Analytics (Part 3: Design and Creation)_**
    <img width="1440" alt="Final Draft (3)" src="https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/12131ee8-2585-4080-b3f3-2fa9ed5929f2">
