@@ -10,7 +10,7 @@
 
 
 
-# From Design to Deployment: Data Warehousing with Azure Synapse Analytics
+# From Design to Deployment: Data Warehousing with Azure Synapse Analytics 
 The repo simulates query load, optimizes performance, and offers practical guidance for building data warehouses with Azure Synapse Analytics. 🚀
 The project follows the following architecture,
 ![Infrastructure Diagram](Assets/working-Animation.gif)
@@ -51,14 +51,14 @@ The project follows the following architecture,
 
 
 ## Blog Implementation 📝
-   To implement this project, follow the step-by-step guide in our detailed [blog post](https://amanpathakdevops.medium.com/devsecops-mastery-a-step-by-step-guide-to-deploying-tetris-on-aws-eks-with-jenkins-and-argocd-3adcf21b3120). Learn how each tool plays a crucial role in achieving DevSecOps excellence.
+   To implement this project, follow the step-by-step guide in our detailed [blog post](URL_Here). Learn how each tool plays a crucial role in creating and scaling a data warehouse on Azure.
 
 ## Acknowledgments 🙌
    Special thanks to the open-source community and the contributors who make learning and collaboration an incredible journey.
 
 ## License 📄
    This project is licensed under the Apache-2.0 license see the [LICENSE](http://www.apache.org/licenses/) file for details.
-
-4. **Connect with Me:**
+   
+## Connect with Me ⬇️
    [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/tahnikahmed/)
    [![Twitter](https://img.shields.io/badge/Connect%20with%20me%20on-Twitter/X-blue.svg)](https://twitter.com/TahnikAhmed)
