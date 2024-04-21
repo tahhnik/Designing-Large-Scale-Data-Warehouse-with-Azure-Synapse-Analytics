@@ -35,7 +35,7 @@ The project follows the following architecture,
    ```bash
    git clone https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics.git
 
-### To Set Up on the Azure Portal (Detailed walkthrough is in the blogposts)
+### To Set Up on the Azure Portal (Detailed walkthrough is in the blog posts)
    **Clone the repository inside Azure workspace through PowerShell on Azure Portal**
    ```shell
    git clone https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics.git
@@ -49,7 +49,7 @@ The project follows the following architecture,
 3. **Follow the Blog:**
    Implementation details and insights are documented in the associated [series of blog posts in Medium](URL_HERE).
    
-      ⚡**If you want to skip the initial processes like data modeling, schema design and directly jump onto building the warehouse on Azure Synapse Analytics, _follow the Blog Three_**,
+      ⚡**If you want to skip the initial processes like data modeling, and schema design and directly jump onto building the warehouse on Azure Synapse Analytics, _follow the Blog Three_**,
    
       ⚡**If you want to skip the building warehouse processes on Azure Synapse Analytics and directly jump onto querying the tables with SQL (T-SQL in this context), _follow the Blog Four_**
    
@@ -89,7 +89,7 @@ The project follows the following architecture,
    * Brief Discussions of the data model
 
 
-   ## **Part Three: _From Design to Deployment: Data Warehousing with Azure Synapse Analytics (Part 3: Design and Creation)_**
+   ## **Part Three: [_From Design to Deployment: Data Warehousing with Azure Synapse Analytics (Part 3: Design and Creation)_](https://medium.com/@tahnikahmed/from-design-to-deployment-data-warehousing-with-azure-synapse-analytics-part-3-design-and-57270561a94c)**
    <img width="720" alt="Final Draft (3)" src="https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/12131ee8-2585-4080-b3f3-2fa9ed5929f2">
    
    **Components:**
