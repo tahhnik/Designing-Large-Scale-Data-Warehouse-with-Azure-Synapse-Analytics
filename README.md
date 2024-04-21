@@ -86,6 +86,9 @@ The project follows the following architecture,
    **Components:**
    * Exploring the attributes of each logical entity in the context of retail companies
    * The details of the schema and developing the snowflake schema
+     ![image](https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/7f5eb308-bce7-43d9-9aab-ce6cb32b458a)
+
+
    * Brief Discussions of the data model
 
 
@@ -100,6 +103,8 @@ The project follows the following architecture,
    * Provisioning dedicated SQL pool within Azure Synapse Analytics Workspace
    * Creating the SQL database and tables (facts and dimensions)
    * Loading data into the tables
+   * ![azure-shell-sqlfiles](https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/52f1de88-fcfc-4fc8-b171-b08f3f156d05)
+
 
    ## **Part Four: _From Design to Deployment: Data Warehousing with Azure Synapse Analytics (Part 3: Querying the Data Warehouse)_ (is being written at this moment)**
    <img width="720" alt="Final Draft (3)" src="https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/7ec03419-2e5a-41ea-a72a-796eb0256366">
