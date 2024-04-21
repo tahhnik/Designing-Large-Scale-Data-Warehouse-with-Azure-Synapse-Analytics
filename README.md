@@ -93,7 +93,7 @@ The project follows the following architecture,
    * Brief Discussions of the data model
 
 
-   ## **Part Three: [_From Design to Deployment: Data Warehousing with Azure Synapse Analytics (Part 3: Design and Creation)_](https://medium.com/@tahnikahmed/from-design-to-deployment-data-warehousing-with-azure-synapse-analytics-part-3-design-and-57270561a94c)**
+   ## **Blog Three: [_From Design to Deployment: Data Warehousing with Azure Synapse Analytics (Part 3: Design and Creation)_](https://medium.com/@tahnikahmed/from-design-to-deployment-data-warehousing-with-azure-synapse-analytics-part-3-design-and-57270561a94c)**
    <img width="720" alt="Final Draft (3)" src="https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/12131ee8-2585-4080-b3f3-2fa9ed5929f2">
    
    **Components:**
@@ -107,7 +107,7 @@ The project follows the following architecture,
    * ![azure-shell-sqlfiles](https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/52f1de88-fcfc-4fc8-b171-b08f3f156d05)
 
 
-   ## **Part Four: _From Design to Deployment: Data Warehousing with Azure Synapse Analytics (Part 3: Querying the Data Warehouse)_ (is being written at this moment)**
+   ## **Blog Four: _From Design to Deployment: Data Warehousing with Azure Synapse Analytics (Part 3: Querying the Data Warehouse)_ (is being written at this moment)**
    <img width="720" alt="Final Draft (3)" src="https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/7ec03419-2e5a-41ea-a72a-796eb0256366">
 
     
