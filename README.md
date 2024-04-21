@@ -80,7 +80,7 @@ The project follows the following architecture,
    * Brief Discussions of the tools and processes used
 
    
-   ## **Blog Two: _From Design to Deployment: Data Warehousing with Azure Synapse Analytics (Part 2: Data Modeling and Schema Design_)**
+   ## **Blog Two: [_From Design to Deployment: Data Warehousing with Azure Synapse Analytics (Part 2: Data Modeling and Schema Design_)](https://medium.com/@tahnikahmed/from-design-to-deployment-data-warehousing-with-azure-synapse-analytics-part-2-data-modeling-8714384ac562)**
    <img width="720" alt="Final Draft (3)" src="https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/21347ad3-03d5-47de-a624-672ece59e261">
    
    **Components:**
@@ -94,11 +94,14 @@ The project follows the following architecture,
    
    **Components:**
    * Provisioning the Azure Synapse Analytics Workspace with UI and ARM templates
+   ![synapase-ui-shell-deploy1](https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/4470df5f-f728-4096-b5d9-28c9a68f5b96)
+
+
    * Provisioning dedicated SQL pool within Azure Synapse Analytics Workspace
    * Creating the SQL database and tables (facts and dimensions)
    * Loading data into the tables
 
-   ## **Part Four: _From Design to Deployment: Data Warehousing with Azure Synapse Analytics (Part 3: Querying the Data Warehouse)_**
+   ## **Part Four: _From Design to Deployment: Data Warehousing with Azure Synapse Analytics (Part 3: Querying the Data Warehouse)_ (is being written at this moment)**
    <img width="720" alt="Final Draft (3)" src="https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/7ec03419-2e5a-41ea-a72a-796eb0256366">
 
     
@@ -108,10 +111,7 @@ The project follows the following architecture,
      
 
 ## Acknowledgments 🙌
-   Special thanks to the open-source community and the contributors who make learning and collaboration an incredible journey.
-
-## License 📄
-   This project is licensed under the Apache-2.0 license see the [LICENSE](http://www.apache.org/licenses/) file for details.
+   My humble gratitude to my friends and family who are constant supports for my works and endevours 
    
 ## Connect with Me ⬇️
    [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/tahnikahmed/)
