@@ -12,6 +12,7 @@
 
 # From Design to Deployment: Data Warehousing with Azure Synapse Analytics 
 The repo simulates query load, optimizes performance, and offers practical guidance for building data warehouses with Azure Synapse Analytics. 🚀
+
 The project follows the following architecture,
 
 ![Infrastructure Diagram](Assets/working-Animation.gif)
