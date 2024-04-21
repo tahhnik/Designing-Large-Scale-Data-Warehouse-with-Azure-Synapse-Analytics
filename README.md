@@ -59,7 +59,7 @@ The project follows the following architecture,
    
 
   ## **Blog One: _From Design to Deployment: Data Warehousing with Azure Synapse Analytics (Part 1: Architecture)_**
-  <img width="1440" alt="Final Draft" src="https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/a0ef0dbe-8486-40f3-b817-0a4068f5e432">
+  <img width="720" alt="Final Draft" src="https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/a0ef0dbe-8486-40f3-b817-0a4068f5e432">
 
    **Components:**
    * The architecture of the data warehouse
@@ -68,25 +68,31 @@ The project follows the following architecture,
 
    
    ## **Blog Two: _From Design to Deployment: Data Warehousing with Azure Synapse Analytics (Part 2: Data Modeling and Schema Design_)**
-   <img width="1440" alt="Final Draft (3)" src="https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/21347ad3-03d5-47de-a624-672ece59e261">
+   <img width="720" alt="Final Draft (3)" src="https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/21347ad3-03d5-47de-a624-672ece59e261">
    
    **Components:**
-   * The architecture of the data warehouse
-   * The details of the data pipeline
-   * Brief Discussions of the tools and processes used
+   * Exploring the attributes of each logical entity in the context of retail companies
+   * The details of the schema and developing the snowflake schema
+   * Brief Discussions of the data model
 
 
    ## **Part Three: _From Design to Deployment: Data Warehousing with Azure Synapse Analytics (Part 3: Design and Creation)_**
-   <img width="1440" alt="Final Draft (3)" src="https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/12131ee8-2585-4080-b3f3-2fa9ed5929f2">
+   <img width="720" alt="Final Draft (3)" src="https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/12131ee8-2585-4080-b3f3-2fa9ed5929f2">
+   
+   **Components:**
+   * Provisioning the Azure Synapse Analytics Workspace with UI and ARM templates
+   * Provisioning dedicated SQL pool within Azure Synapse Analytics Workspace
+   * Creating the SQL database and tables (facts and dimensions)
+   * Loading data into the tables
 
    ## **Part Four: _From Design to Deployment: Data Warehousing with Azure Synapse Analytics (Part 3: Querying the Data Warehouse)_**
-   <img width="1440" alt="Final Draft (3)" src="https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/7ec03419-2e5a-41ea-a72a-796eb0256366">
+   <img width="720" alt="Final Draft (3)" src="https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/7ec03419-2e5a-41ea-a72a-796eb0256366">
 
     
    **Components:**
-   * The architecture of the data warehouse
-   * The details of the data pipeline
-   * Brief Discussions of the tools and processes used
+   * Querying the data warehouse
+   * Showcasing the analytical capabilities of Azure Synapse Analytics
+     
 
 ## Tools Explored 🛠️
 1. **Azure Synapse Analytics**: Enterprise analytics service for data warehouses and big data systems.
