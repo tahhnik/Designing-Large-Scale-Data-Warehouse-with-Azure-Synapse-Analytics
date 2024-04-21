@@ -35,7 +35,7 @@ The project follows the following architecture,
    ```bash
    git clone https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics.git
 
-### To Set Up on the Azure Portal (Detailed walkthrough is in the blog posts)
+### _To Set Up on the Azure Portal (Detailed walkthrough is in the blog posts)_
    **Clone the repository inside Azure workspace through PowerShell on Azure Portal**
    ```shell
    git clone https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics.git
@@ -52,8 +52,8 @@ The project follows the following architecture,
       ⚡**If you want to skip the initial processes like data modeling, and schema design and directly jump onto building the warehouse on Azure Synapse Analytics, _follow the Blog Three_**,
    
       ⚡**If you want to skip the building warehouse processes on Azure Synapse Analytics and directly jump onto querying the tables with SQL (T-SQL in this context), _follow the Blog Four_**
-   
-   
+
+
 ## Tools Explored 🛠️
 1. **Azure Synapse Analytics**: Enterprise analytics service for data warehouses and big data systems.
 2. **Azure Portal**: Unified console to manage Azure resources.
@@ -117,7 +117,7 @@ The project follows the following architecture,
      
 
 ## Acknowledgments 🙌
-   My humble gratitude to my friends and family who are constant support of my works and endeavors 
+   My humble gratitude to my friends and family who are the constant support of my works and endeavors 
    
 ## Connect with Me ⬇️
    [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/tahnikahmed/)
