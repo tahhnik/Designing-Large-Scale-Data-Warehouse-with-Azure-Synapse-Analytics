@@ -53,10 +53,23 @@ The project follows the following architecture,
    
       ⚡**If you want to skip the building warehouse processes on Azure Synapse Analytics and directly jump onto querying the tables with SQL (T-SQL in this context), _follow the Blog Four_**
    
-
-
-
    
+## Tools Explored 🛠️
+1. **Azure Synapse Analytics**: Enterprise analytics service for data warehouses and big data systems.
+2. **Azure Portal**: Unified console to manage Azure resources.
+3. **Azure Stream Analytics**: Real-time stream processing engine.
+4. **Azure Machine Learning**: Cloud service for ML project lifecycle.
+5. **Azure Data Lake Storage Gen2**: Scalable storage for data lakes.
+6. **Power BI**: Business analytics service for data visualization.
+7. **Azure Function Apps**: Serverless applications for event-driven scenarios.
+8. **Azure Cosmos DB**: Globally distributed, multi-model database.
+
+
+## Blog Implementation 📝
+   To implement this project, follow the step-by-step guide in our detailed [blog post](URL_Here). Learn how each tool plays a crucial role in creating and scaling a data warehouse on Azure.
+
+
+
 
   ## **Blog One: _From Design to Deployment: Data Warehousing with Azure Synapse Analytics (Part 1: Architecture)_**
   <img width="720" alt="Final Draft" src="https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/a0ef0dbe-8486-40f3-b817-0a4068f5e432">
@@ -93,20 +106,6 @@ The project follows the following architecture,
    * Querying the data warehouse
    * Showcasing the analytical capabilities of Azure Synapse Analytics
      
-
-## Tools Explored 🛠️
-1. **Azure Synapse Analytics**: Enterprise analytics service for data warehouses and big data systems.
-2. **Azure Portal**: Unified console to manage Azure resources.
-3. **Azure Stream Analytics**: Real-time stream processing engine.
-4. **Azure Machine Learning**: Cloud service for ML project lifecycle.
-5. **Azure Data Lake Storage Gen2**: Scalable storage for data lakes.
-6. **Power BI**: Business analytics service for data visualization.
-7. **Azure Function Apps**: Serverless applications for event-driven scenarios.
-8. **Azure Cosmos DB**: Globally distributed, multi-model database.
-
-
-## Blog Implementation 📝
-   To implement this project, follow the step-by-step guide in our detailed [blog post](URL_Here). Learn how each tool plays a crucial role in creating and scaling a data warehouse on Azure.
 
 ## Acknowledgments 🙌
    Special thanks to the open-source community and the contributors who make learning and collaboration an incredible journey.
