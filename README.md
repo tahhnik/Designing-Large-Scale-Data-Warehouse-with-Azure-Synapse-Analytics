@@ -66,12 +66,12 @@ The project follows the following architecture,
 
 
 ## Blog Implementation 📝
-   To implement this project, follow the step-by-step guide in our detailed [blog post](URL_Here). Learn how each tool plays a crucial role in creating and scaling a data warehouse on Azure.
+   To implement this project, follow the step-by-step guide in our detailed [blog post](https://medium.com/@tahnikahmed/from-design-to-deployment-data-warehousing-with-azure-synapse-analytics-part-1-architecture-44d939b252a0). Learn how each tool plays a crucial role in creating and scaling a data warehouse on Azure.
 
 
 
 
-  ## **Blog One: _From Design to Deployment: Data Warehousing with Azure Synapse Analytics (Part 1: Architecture)_**
+  ## **Blog One: [_From Design to Deployment: Data Warehousing with Azure Synapse Analytics (Part 1: Architecture)_](https://medium.com/@tahnikahmed/from-design-to-deployment-data-warehousing-with-azure-synapse-analytics-part-1-architecture-44d939b252a0)**
   <img width="720" alt="Final Draft" src="https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/a0ef0dbe-8486-40f3-b817-0a4068f5e432">
 
    **Components:**
