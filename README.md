@@ -86,7 +86,8 @@ The project follows the following architecture,
    **Components:**
    * Exploring the attributes of each logical entity in the context of retail companies
    * The details of the schema and developing the snowflake schema
-     ![image](https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/7f5eb308-bce7-43d9-9aab-ce6cb32b458a)
+   * ![schema-design-smol](https://github.com/tahhnik/Designing-Large-Scale-Data-Warehouse-with-Azure-Synapse-Analytics/assets/25973761/9922c116-8ff3-4952-881f-c8f9d00a3965)
+
 
 
    * Brief Discussions of the data model
@@ -116,7 +117,7 @@ The project follows the following architecture,
      
 
 ## Acknowledgments 🙌
-   My humble gratitude to my friends and family who are constant supports for my works and endevours 
+   My humble gratitude to my friends and family who are constant support of my works and endeavors 
    
 ## Connect with Me ⬇️
    [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/tahnikahmed/)
